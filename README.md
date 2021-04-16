@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
 
-#Live Demo 
+# Live Demo 
 
 <a href="https://olivares15567.github.io/Tic-Tac-Toe/">Here</a>
